@@ -1,0 +1,43 @@
+#bone-img {
+  height: 22rem;
+  width: 22rem;
+  border: 5rem;
+  padding: 3rem;
+  border-radius: 2rem;
+}
+
+#rectangle {
+  background-color: rosybrown;
+  background-image: radial-gradient(-35.15% 100%, #2EC4B8 0%, #6078EA 100%);
+  border-radius: 4px;
+  width: 586px;
+  height: 95px;
+}
+
+.replacement-of-disea {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 20px;
+  text-align: left;
+  width: 532px;
+}
+
+.medicines-and-in-cer {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 20px;
+  text-align: left;
+  width: 623px;
+}
+
+.in-autologous-bone-m {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 20px;
+  text-align: left;
+  width: 605px;
+}
+/*# sourceMappingURL=bonemarrow_details.css.map */
